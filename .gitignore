@@ -23,3 +23,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.fdt
+*.fdx
+*.fnm
+*.frq
+*.nrm
+*.tii
+*.prx
+*.tis
+*.gen
+*.json
+eclipse-workspace/HRList/.project
+eclipse-workspace/HRList/.classpath
+eclipse-workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_1
+eclipse-workspace/HRList/.settings/org.eclipse.jdt.core.prefs
